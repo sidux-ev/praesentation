@@ -2,9 +2,9 @@
 
 sidux ist:
   
-eine stabile, auf Debians Unstable-Zweig (Sid) basierte Linux-Distribution
+eine stabile, auf Debians Unstable-Zweig (Sid) basierte Linux-Distribution.
   
-Pakete werden direkt aus Debians Sid-Repository installiert (kein forken der Pakete)
+Pakete werden direkt aus Debians Sid-Repository installiert (kein forken der Pakete).
 
 Rolling Release: Durch regelmäßige Updates (dist-upgrade) über Internet wird das System (tages-) aktuell gehalten.
 
@@ -14,9 +14,9 @@ Es ist nicht notwendig bei einem neuen Release eine neue Installation vorzunehme
 
 Besonderheiten:
 
-eigenes Repository für Kernel und eigene Applikationen (z. B. Netzwerkonfigurationstool Ceni und Artwork)
+eigenes Repository für Kernel und eigene Applikationen (z. B. Netzwerkonfigurationstool Ceni und Artwork).
 
-sidux bietet durch einen hochaktuellen Kernel bestmögliche Hardwareunterstützung und Sicherheit.
+sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit.
 
 kurzfristige Bereitstellung einer gefixten Paketversion falls ein defektes, essentielles Paket produktives Arbeiten mit dem System behindert
 
@@ -32,7 +32,7 @@ In welchen Varianten kann sidux installiert werden?
   
 - über Live-DVD KDE-Full mit aktuellen KDE4 aus Sid und vielen Anwendungsprogrammen
   
-- über Live-CD KDE-Light mit aktuellen KDE4 aus Sid und einer reduzierten Anzahl an Anwendungen
+- über Live-CD KDE-Light mit aktuellen KDE4 aus Sid und einer reduzierten Anzahl Anwendungen
   
 - über Live-CD XFCE mit Anwendungen für leistungsschwächere Rechner
   
@@ -42,17 +42,17 @@ Alle drei Varianten sind für die 32- und 64-Bit-Architektur verfügbar.
   
 Hardware-Anforderungen:
   
-x86-64/ EM64T fähige CPU, d.h. neuere AMD oder INTEL Prozessoren (für 64Bit)
+x86-64/ EM64T fähige CPU, d.h. neuere AMD oder INTEL Prozessoren (für 64Bit).
   
-CPU die den vollständigen i686 Befehlssatz unterstützt (für 32Bit)
+CPU die den vollständigen i686 Befehlssatz unterstützt (für 32Bit).
   
-mind. 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM
+mind. 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM.
   
-Standard VGA Grafikkarte
+Standard VGA Grafikkarte.
   
-mind. 3 GByte freien Festplattenplatz, zum sinnvollen Arbeiten sollten mindestens 10 GB geplant werden
+mind. 3 GByte freien Festplattenplatz, zum sinnvollen Arbeiten sollten mindestens 10 GB geplant werden.
   
-optisches Laufwerk oder USB-Speichermedien
+optisches Laufwerk oder USB-Speichermedien.
 
 /* --- seite 5 --- */
 
