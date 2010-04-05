@@ -1,6 +1,6 @@
 /* --- seite 1 --- */
 
-sidux ist:
+sidux ist
   
 eine stabile, auf Debians Unstable-Zweig (Sid) basierte Linux-Distribution.
   
@@ -12,7 +12,7 @@ Es ist nicht notwendig bei einem neuen Release eine neue Installation vorzunehme
 
 /* --- seite 2 --- */
 
-Besonderheiten:
+Besonderheiten
 
 eigenes Repository für Kernel und eigene Applikationen (z. B. Netzwerkonfigurationstool Ceni und Artwork).
 
@@ -24,39 +24,39 @@ Das Projekt wird von einer aktiven Community unterstützt.
   
 /* --- seite 3 --- */
 
-Releases:
+Releases
   
 sidux wird 4 mal pro Jahr veröffentlicht und kann von der Live-CD / DVD in 2 - 10 Minuten, je nach Alter der Harware, installiert werden. Bei sehr alter Hardware kann es auch länger dauern.
 
 In welchen Varianten kann sidux installiert werden?
   
-- über Live-DVD KDE-Full mit aktuellen KDE4 aus Sid und vielen Anwendungsprogrammen
+- mittels Live-DVD 'KDE-Full' mit aktuellen KDE4 aus Sid und vielen Anwendungsprogrammen
   
-- über Live-CD KDE-Light mit aktuellen KDE4 aus Sid und einer reduzierten Anzahl Anwendungen
+- mittels Live-CD 'KDE-Light' mit aktuellen KDE4 aus Sid und einer reduzierten Anzahl Anwendungen
   
-- über Live-CD XFCE mit Anwendungen für leistungsschwächere Rechner
+- mittels Live-CD 'XFCE' mit Anwendungen für leistungsschwächere Rechner
   
-Alle drei Varianten sind für die 32- und 64-Bit-Architektur verfügbar.
+Alle drei Varianten sind für 32- und 64-Bit-Architektur verfügbar.
   
 /* --- seite 4 --- */
   
-Hardware-Anforderungen:
+Hardware-Anforderungen
   
 x86-64/ EM64T fähige CPU, d.h. neuere AMD oder INTEL Prozessoren (für 64Bit).
   
 CPU die den vollständigen i686 Befehlssatz unterstützt (für 32Bit).
   
-mind. 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM.
+mindestens 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM.
   
 Standard VGA Grafikkarte.
   
-mind. 3 GByte freien Festplattenplatz, zum sinnvollen Arbeiten sollten mindestens 10 GB geplant werden.
+mindestens 3 GByte freien Festplattenplatz, zum sinnvollen Arbeiten sollten mindestens 10 GB geplant werden.
   
 optisches Laufwerk oder USB-Speichermedien.
 
 /* --- seite 5 --- */
 
-Hilfe:
+Hilfe
   
 im Supportforum auf der sidux Webseite unter http://sidux.com
   
@@ -68,7 +68,7 @@ in der offiziellen sidux Dokumentation unter http://manual.sidux.com
   
 /* --- seite 6 --- */  
 
-Anwendertreffen:
+Anwendertreffen
   
 In einigen deutschen Städten werden bereits regelmäßige Anwendertreffen oder Stammtische, bei denen man Gleichgesinnte trifft, abgehalten.
 
