@@ -1,95 +1,105 @@
 /* --- seite 1 --- */
 
-sidux ist
+sidux
   
-eine stabile, auf Debians Unstable-Zweig (Sid) basierte Linux-Distribution.
+- ist eine stabile, auf Debians unstable-Zweig (sid) basierte Linux-Distribution
   
-Pakete werden direkt aus Debians Sid-Repository installiert (kein forken der Pakete).
+- ist als "Rolling Release" durch regelmäßige Updates (dist-upgrade) über das Internet (ggf. tages-)aktuell
 
-Rolling Release: Durch regelmäßige Updates (dist-upgrade) über Internet wird das System (tages-) aktuell gehalten.
+- installiert Pakete direkt aus Debians sid-Repository (kein Forken der Pakete)
 
-Es ist nicht notwendig bei einem neuen Release eine neue Installation vorzunehmen.
+- macht neue Releases ohne Neuinstallation verfügbar
 
 /* --- seite 2 --- */
 
-Besonderheiten
+Besonderheiten von sidux:
 
-eigenes Repository für Kernel und eigene Applikationen (z. B. Netzwerkonfigurationstool Ceni und Artwork).
+- eigenes Repository für sidux-Kernel und -Applikationen (z. B. Netzwerkonfigurationstool Ceni und sidux-Artwork) 
 
-sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit.
+- sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software 
 
-kurzfristige Bereitstellung einer gefixten Paketversion falls ein defektes, essentielles Paket produktives Arbeiten mit dem System behindert
+- kurzfristige Bereitstellung gefixter Paketversionen, falls durch eine Versionsinkompatibilität im sid-Zweig die Arbeit mit dem System behindert werden würde 
 
-Das Projekt wird von einer aktiven Community unterstützt.
+- sidux wird von einer aktiven Community und dem sidux e.V. unterstützt
   
 /* --- seite 3 --- */
 
-Releases
+Releases von sidux:
   
-sidux wird 4 mal pro Jahr veröffentlicht und kann von der Live-CD / DVD in 2 - 10 Minuten, je nach Alter der Harware, installiert werden. Bei sehr alter Hardware kann es auch länger dauern.
+Aufgrund der "Rolling Release"-Philosophie ist ein installiertes sidux durch entsprechende Dist-Upgrades immer aktuell.
+  
+Die sidux-live-CD/DVD wird 4 mal pro Jahr veröffentlicht und kann auf Wunsch in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend großen) USB-Sticks installiert werden.
 
-In welchen Varianten kann sidux installiert werden?
+Für die Installation steht ein grafisches Tool zur Verfügung, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt.
+
+Selbstverständlich kann sidux auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach installiert werden; ohne jegliche Beeinflussung des primär installierten Systemes; optimal für längere Tests mit sidux/Linux.
+
+/* --- seite 4 --- */
+
+Varianten der Live-CD/DVD und Installationen von sidux:
   
-- mittels Live-DVD 'KDE-Full' mit aktuellen KDE4 aus Sid und vielen Anwendungsprogrammen
+- Live-DVD 'KDE-Full', mit aktuellem KDE4 aus sid und vielen Anwendungsprogrammen
   
-- mittels Live-CD 'KDE-Light' mit aktuellen KDE4 aus Sid und einer reduzierten Anzahl Anwendungen
+- Live-CD 'KDE-Light', mit aktuellem KDE4 aus sid und einer reduzierten Anzahl an KDE-Anwendungen
   
-- mittels Live-CD 'XFCE' mit Anwendungen für leistungsschwächere Rechner
+- Live-CD 'XFCE' mit Anwendungen für leistungsschwächere Rechner ohne KDE-Oberfläche, statt dessen mit XFCE
   
-Alle drei Varianten sind für 32- und 64-Bit-Architektur verfügbar.
+Alle drei Varianten sind für die 32- und 64-Bit-Architekturen der gängigen Prozessoren von INTEL und AMD verfügbar.
   
 /* --- seite 4 --- */
   
-Hardware-Anforderungen
+Hardware-Anforderungen:
   
-x86-64/ EM64T fähige CPU, d.h. neuere AMD oder INTEL Prozessoren (für 64Bit).
+- für 32 Bit: CPU die den vollständigen i686 Befehlssatz unterstützt (quasi alle bekannten INTEL/AMD-Chips)
+
+- für 64 Bit: x86-64/ EM64T fähige CPU, d.h. neuere INTEL/AMD Prozessoren (für 64Bit)
+    
+- mindestens 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM, optimal ab 1 GByte
   
-CPU die den vollständigen i686 Befehlssatz unterstützt (für 32Bit).
+- Standard VGA Grafikkarte
+
+- CD/DVD-Laufwerk bzw. freier USB-Port (wenn USB-Boot für den Rechner möglich)
   
-mindestens 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM.
+für die optionale Installation:
+
+mindestens 3 GByte freien Speicherplatz (USB-Stick oder Festplatte), zum sinnvollen Arbeiten sollten mindestens 10 GB vorgesehen werden.
   
-Standard VGA Grafikkarte.
-  
-mindestens 3 GByte freien Festplattenplatz, zum sinnvollen Arbeiten sollten mindestens 10 GB geplant werden.
-  
-optisches Laufwerk oder USB-Speichermedien.
 
 /* --- seite 5 --- */
 
-Hilfe
+Hilfe bei sidux:
   
-im Supportforum auf der sidux Webseite unter http://sidux.com
+- im offiziellen sidux-Handbuch (aktuell bereits in 16 Sprachen!) unter http://manual.sidux.com
+
+- mit einem IRC-Client im Chat irc.oftc.net im Channel #sidux 
+
+- ohne IRC-Client über den Webchat, der unter sidux.com zu finden ist
+
+- im Supportforum auf der sidux Webseite unter http://sidux.com
   
-mit einem IRC-Client im Chat irc.oftc.net im Channel #sidux 
-
-ohne IRC-Client über den Webchat, der unter sidux.com zu finden ist
   
-in der offiziellen sidux Dokumentation unter http://manual.sidux.com
+/* --- seite 6 --- */
+
+Aktivitäten/Anwendertreffen der sidux-community
   
-/* --- seite 6 --- */  
+In einigen Städten werden bereits regelmäßige Anwendertreffen und/oder Stammtische abgehalten, bei denen man Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen kann.
 
-Anwendertreffen
-  
-In einigen deutschen Städten werden bereits regelmäßige Anwendertreffen oder Stammtische, bei denen man Gleichgesinnte trifft, abgehalten.
+Für Südbayern gibt es z.B. in München jeden zweiten Samstag im Monat ein Anwendertreffen.
 
-Für Südbayern gibt es in München jeden zweiten Samstag im Monat ein Anwendertreffen.
+Weitere Treffen und Wochenend-Workshops finden unter anderem bereits in Aachen, Darmstadt und Hamburg statt.
 
-Weitere Treffen und Wochenend-Workshops finden unter anderem in Aachen, Darmstadt und Hamburg statt.
+Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden sie Sich bitte unter:
+http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 
-Falls Sie in ihrer Stadt / Region Anwendertreffen oder Workshops etablieren möchten melden sie sich bitte unter:
-http://sidux-ev.de
-im Chat irc.oftc.net unter Channel #sidux-ev
-oder direkt hier am Stand.
-
-Der sidux e.V. unterstützt gerne.
+Der sidux e.V. unterstützt Sir gerne!
   
 /* --- seite 7 --- */
 
 sidux e.V.
   
-Mit Messestand sonst noch vertreten bei:
+Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
 
-Fosdem Brüssel, Oldenburger LIT, Chemnitzer Linux-Tage, SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
+SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, Fosdem Brüssel, Oldenburger LIT, Augsburger Linux-Tag, Chemnitzer Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
 
 Den sidux e.V. erreichen Sie unter:
 Homepage: http://sidux-ev.de
@@ -97,4 +107,16 @@ Wiki: wiki.sidux-ev.de
   
 /* --- seite 8 --- */
   
-Viel Spaß mit sidux und eine interessante Zeit beim SIGINT 2010 in Köln wünscht Ihr sidux Team!
+Viel Spaß mit sidux und eine interessante Zeit beim SIGINT 2010 in Köln wünschen Ihnen:
+
+  Foto / Name / Nick (der Standbetreuer)
+  
+Ihr sidux Team Köln
+
+
+
+/*  Anmerkungen */
+
+Namen und Nik-Names? mit auf der Präsentation? Fänd ich nett...
+
+Auf den Namenskarten sollten Namen und Nicknames stehen, ich (Spike_DE) kenne die meissten z.B. nur als Nickname aus dem IRC!
