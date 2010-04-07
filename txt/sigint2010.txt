@@ -26,16 +26,17 @@ Besonderheiten von sidux:
   
 /* --- seite 3 --- */
 
-Releases von sidux:
+CD/DVD-Releases von sidux:
   
-Aufgrund der "Rolling Release"-Philosophie ist ein installiertes sidux durch entsprechende Dist-Upgrades immer aktuell.
-  
-Die sidux-live-CD/DVD wird 4 mal pro Jahr veröffentlicht und kann auf Wunsch in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend großen) USB-Sticks installiert werden.
+- werden 4 mal pro Jahr veröffentlicht
 
-Für die Installation steht ein grafisches Tool zur Verfügung, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt.
+- sidux live CD/DVD-Systeme laufen ohne jegliche Beeinflussung des primär installierten Systemes, perfekt für den 1. Kontakt mit sidux/Linux
 
-Selbstverständlich kann sidux auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach installiert werden; ohne jegliche Beeinflussung des primär installierten Systemes; optimal für längere Tests mit sidux/Linux.
+- sind in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend große) USB-Sticks installierbar
 
+- lässt sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach betreiben und installiert; optimal für längere Tests mit sidux/Linux
+
+- unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt; super für den Dauerbetrieb mit Rolling-Release-Aktualität
 
 /* --- seite 4 --- */
 
@@ -84,13 +85,15 @@ Hilfe bei sidux:
   
 /* --- seite 7 --- */
 
-Aktivitäten der sidux-community
+Aktivitäten der sidux-Community:
   
-In einigen Städten werden bereits regelmäßige Anwendertreffen und/oder Stammtische abgehalten, bei denen man Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen kann.
+- regelmäßige Anwendertreffen und/oder Stammtische, bei denen man Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen kann
 
-Für Südbayern gibt es z.B. in München jeden zweiten Samstag im Monat ein Anwendertreffen.
+- z.B. in Münchens, jeden zweiten Samstag im Monat Anwendertreffen
 
-Weitere Treffen und Wochenend-Workshops finden unter anderem bereits in Aachen, Darmstadt und Hamburg statt.
+- z.B. in Aachen, Darmstadt und Hamburg, Treffen und Wochenend-Workshops
+
+- demnächst auch bei Ihnen? 
 
 Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden sie Sich bitte unter:
 http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
