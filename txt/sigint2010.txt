@@ -30,13 +30,16 @@ CD/DVD-Releases von sidux:
   
 - werden 4 mal pro Jahr veröffentlicht
 
-- sidux live CD/DVD-Systeme laufen ohne jegliche Beeinflussung des primär installierten Systemes, perfekt für den 1. Kontakt mit sidux/Linux
+- sidux live CD/DVD-Systeme laufen ohne jegliche Beeinflussung des primär installierten Systems
+perfekt für den 1. Kontakt mit sidux/Linux
 
 - sind in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend große) USB-Sticks installierbar
 
-- lässt sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach betreiben und installiert; optimal für längere Tests mit sidux/Linux
+- lassen sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach betreiben und installient
+optimal für längere Tests mit sidux/Linux
 
-- unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt; super für den Dauerbetrieb mit Rolling-Release-Aktualität
+- unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt
+super für den Dauerbetrieb mit Rolling-Release-Aktualität
 
 /* --- seite 4 --- */
 
@@ -89,9 +92,9 @@ Aktivitäten der sidux-Community:
   
 - regelmäßige Anwendertreffen und/oder Stammtische, bei denen man Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen kann
 
-- z.B. in Münchens, jeden zweiten Samstag im Monat Anwendertreffen
+- z.B. in München: jeden zweiten Samstag im Monat Anwendertreffen
 
-- z.B. in Aachen, Darmstadt und Hamburg, Treffen und Wochenend-Workshops
+- z.B. in Aachen, Darmstadt und Hamburg: Treffen und Wochenend-Workshops
 
 - demnächst auch bei Ihnen? 
 
