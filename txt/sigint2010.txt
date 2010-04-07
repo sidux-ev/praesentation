@@ -17,7 +17,7 @@ Besonderheiten von sidux:
 
 - eigenes Repository für sidux-Kernel und -Applikationen (z. B. Netzwerkonfigurationstool Ceni und sidux-Artwork) 
 
-- sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software 
+- sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software. Bei Bedarf können vom Anwender auf einfache Art auch kommerzielle (non-free) Programme und Treiber in sidux eingebunden werden.
 
 - kurzfristige Bereitstellung gefixter Paketversionen, falls durch eine Versionsinkompatibilität im sid-Zweig die Arbeit mit dem System behindert werden würde 
 
