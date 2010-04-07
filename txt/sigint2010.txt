@@ -36,7 +36,7 @@ Selbstverständlich kann sidux auch in virtuellen Systemen (z.B. Virtualbox, etc
 
 /* --- seite 4 --- */
 
-Varianten der Live-CD/DVD und Installationen von sidux:
+Varianten und Installationen von sidux:
   
 - Live-DVD 'KDE-Full', mit aktuellem KDE4 aus sid und vielen Anwendungsprogrammen
   
@@ -46,7 +46,7 @@ Varianten der Live-CD/DVD und Installationen von sidux:
   
 Alle drei Varianten sind für die 32- und 64-Bit-Architekturen der gängigen Prozessoren von INTEL und AMD verfügbar.
   
-/* --- seite 4 --- */
+/* --- seite 5 --- */
   
 Hardware-Anforderungen:
   
@@ -65,7 +65,7 @@ für die optionale Installation:
 mindestens 3 GByte freien Speicherplatz (USB-Stick oder Festplatte), zum sinnvollen Arbeiten sollten mindestens 10 GB vorgesehen werden.
   
 
-/* --- seite 5 --- */
+/* --- seite 6 --- */
 
 Hilfe bei sidux:
   
@@ -78,9 +78,9 @@ Hilfe bei sidux:
 - im Supportforum auf der sidux Webseite unter http://sidux.com
   
   
-/* --- seite 6 --- */
+/* --- seite 7 --- */
 
-Aktivitäten/Anwendertreffen der sidux-community
+Aktivitäten der sidux-community
   
 In einigen Städten werden bereits regelmäßige Anwendertreffen und/oder Stammtische abgehalten, bei denen man Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen kann.
 
@@ -93,7 +93,7 @@ http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hie
 
 Der sidux e.V. unterstützt Sir gerne!
   
-/* --- seite 7 --- */
+/* --- seite 8 --- */
 
 sidux e.V.
   
@@ -105,7 +105,7 @@ Den sidux e.V. erreichen Sie unter:
 Homepage: http://sidux-ev.de
 Wiki: wiki.sidux-ev.de
   
-/* --- seite 8 --- */
+/* --- seite 9 --- */
   
 Viel Spaß mit sidux und eine interessante Zeit beim SIGINT 2010 in Köln wünschen Ihnen:
 
