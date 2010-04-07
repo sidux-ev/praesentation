@@ -15,6 +15,9 @@ sidux
 
 Besonderheiten von sidux:
 
+// MAGNUS: hier sollte man ggf andere Applikationen neben Ceni nennen. Was gibt es denn da
+// noch so in den Repositories? Mir fällt auch nichts anderes ein.. Artwork ist jedenfalls
+// keine Applikation. :)
 - eigenes Repository für sidux-Kernel und -Applikationen (z. B. Netzwerkonfigurationstool Ceni und sidux-Artwork) 
 
 - sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software. Bei Bedarf können vom Anwender auf einfache Art auch kommerzielle (non-free) Programme und Treiber in sidux eingebunden werden.
@@ -28,17 +31,20 @@ Besonderheiten von sidux:
 
 CD/DVD-Releases von sidux:
   
-- werden 4 mal pro Jahr veröffentlicht
+- werden 3-4 mal pro Jahr veröffentlicht
 
 - sidux live CD/DVD-Systeme laufen ohne jegliche Beeinflussung des primär installierten Systems
 perfekt für den 1. Kontakt mit sidux/Linux
 
-- sind in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend große) USB-Sticks installierbar
+- sind in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend großen) USB-Sticks installierbar
 
-- lassen sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach betreiben und installient
+- lassen sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) einfach betreiben und installieren
 optimal für längere Tests mit sidux/Linux
 
 - unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt
+// MAGNUS: Den Punkt mit dem Dauerbetrieb finde ich an der Stelle etwas irritierend. Was
+// hat der mit dem CD/DVD-Release zu tun? Man sollte hier vielleicht eher sagen, dass nach
+// erfolgreicher Installation die CD/DVD nicht mehr gebraucht wird? ;)
 super für den Dauerbetrieb mit Rolling-Release-Aktualität
 
 
@@ -59,7 +65,8 @@ Alle drei Varianten sind für die 32- und 64-Bit-Architekturen der gängigen Pro
   
 Hardware-Anforderungen:
   
-- für 32 Bit: CPU die den vollständigen i686 Befehlssatz unterstützt (quasi alle bekannten INTEL/AMD-Chips)
+- für 32 Bit: CPU die den vollständigen i686 Befehlssatz unterstützt (quasi alle bekannten
+    neueren INTEL/AMD-Chips)
 
 - für 64 Bit: x86-64/ EM64T fähige CPU, d.h. neuere INTEL/AMD Prozessoren (für 64Bit)
     
@@ -99,7 +106,9 @@ Aktivitäten der sidux-Community:
 
 - demnächst auch bei Ihnen? 
 
-Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden sie Sich bitte unter:
+// MAGNUS: Ist es sinnvoll, hier das sidux-ev Forum zu nennen? Das könnte den Eindruck
+// hinterlassen, wir wären praktisch schon tot. Vielleicht einfach eine Emailadresse?
+Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden Sie sich bitte unter:
 http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 
 Der sidux e.V. unterstützt Sie gerne!
@@ -111,11 +120,12 @@ sidux e.V.
   
 Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
 
-SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, Fosdem Brüssel, Oldenburger Linux-Infotag, Augsburger Linux-Infotag, Chemnitzer Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
+SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, FOSDEM Brüssel, Oldenburger Linux-Infotag, Augsburger Linux-Infotag, Chemnitzer Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
 
 Den sidux e.V. erreichen Sie unter:
 Homepage: http://sidux-ev.de
 Wiki: wiki.sidux-ev.de
+IRC: irc.oftc.net, channel: #sidux-ev
   
 
 /* --- seite 9 --- */
@@ -131,6 +141,8 @@ Ihr sidux Team Köln
 # ------------------------------------------------------------------------------------------------ #
 /*  Anmerkungen */
 
-Namen und Nik-Names? mit auf der Präsentation? Fänd ich nett...
+Namen und Nick-Names? mit auf der Präsentation? Fänd ich nett...
+// MAGNUS: ich weiß nicht ob es sinnvoll ist, die Namen und Bilder mit auf die Präsentation zu
+// packen. Die sehen uns doch da?
 
-Auf den Namenskarten sollten Namen und Nicknames stehen, ich (Spike_DE) kenne die meissten z.B. nur als Nickname aus dem IRC!
+Auf den Namenskarten sollten Namen und Nicknames stehen, ich (Spike_DE) kenne die meisten z.B. nur als Nickname aus dem IRC!
