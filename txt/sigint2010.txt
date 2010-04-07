@@ -10,6 +10,7 @@ sidux
 
 - macht neue Releases ohne Neuinstallation verfügbar
 
+
 /* --- seite 2 --- */
 
 Besonderheiten von sidux:
@@ -21,6 +22,7 @@ Besonderheiten von sidux:
 - kurzfristige Bereitstellung gefixter Paketversionen, falls durch eine Versionsinkompatibilität im sid-Zweig die Arbeit mit dem System behindert werden würde 
 
 - sidux wird von einer aktiven Community und dem sidux e.V. unterstützt
+
   
 /* --- seite 3 --- */
 
@@ -34,6 +36,7 @@ Für die Installation steht ein grafisches Tool zur Verfügung, das von den Vore
 
 Selbstverständlich kann sidux auch in virtuellen Systemen (z.B. Virtualbox, etc.) ebenso einfach installiert werden; ohne jegliche Beeinflussung des primär installierten Systemes; optimal für längere Tests mit sidux/Linux.
 
+
 /* --- seite 4 --- */
 
 Varianten und Installationen von sidux:
@@ -45,6 +48,7 @@ Varianten und Installationen von sidux:
 - Live-CD 'XFCE' mit Anwendungen für leistungsschwächere Rechner ohne KDE-Oberfläche, statt dessen mit XFCE
   
 Alle drei Varianten sind für die 32- und 64-Bit-Architekturen der gängigen Prozessoren von INTEL und AMD verfügbar.
+
   
 /* --- seite 5 --- */
   
@@ -92,6 +96,7 @@ Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren m
 http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 
 Der sidux e.V. unterstützt Sir gerne!
+
   
 /* --- seite 8 --- */
 
@@ -99,22 +104,24 @@ sidux e.V.
   
 Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
 
-SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, Fosdem Brüssel, Oldenburger LIT, Augsburger Linux-Tag, Chemnitzer Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
+SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, Fosdem Brüssel, Oldenburger LIT, Augsburger Linux-Infotag, Chemnitzer Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
 
 Den sidux e.V. erreichen Sie unter:
 Homepage: http://sidux-ev.de
 Wiki: wiki.sidux-ev.de
   
+
 /* --- seite 9 --- */
   
 Viel Spaß mit sidux und eine interessante Zeit beim SIGINT 2010 in Köln wünschen Ihnen:
 
-  Foto / Name / Nick (der Standbetreuer)
+  aomori, evnu, loewenherz, motti, RoEn und vedawalter
+  /* Foto / Name / Nick (der Standbetreuer) */
   
 Ihr sidux Team Köln
 
 
-
+# ------------------------------------------------------------------------------------------------ #
 /*  Anmerkungen */
 
 Namen und Nik-Names? mit auf der Präsentation? Fänd ich nett...
