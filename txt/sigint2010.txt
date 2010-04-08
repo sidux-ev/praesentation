@@ -18,6 +18,8 @@ Besonderheiten von sidux:
 // MAGNUS: hier sollte man ggf andere Applikationen neben Ceni nennen. Was gibt es denn da
 // noch so in den Repositories? Mir fällt auch nichts anderes ein.. Artwork ist jedenfalls
 // keine Applikation. :)
+// WALTER: siehe http://svn.berlios.de/svnroot/repos/fullstory/
+//         hier sollten eigene oder durch sidux veränderte pakete zu finden sein.
 - eigenes Repository für sidux-Kernel und -Applikationen (z. B. Netzwerkonfigurationstool Ceni und sidux-Artwork) 
 
 - sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software. Bei Bedarf können vom Anwender auf einfache Art auch kommerzielle (non-free) Programme und Treiber in sidux eingebunden werden.
@@ -108,6 +110,10 @@ Aktivitäten der sidux-Community:
 
 // MAGNUS: Ist es sinnvoll, hier das sidux-ev Forum zu nennen? Das könnte den Eindruck
 // hinterlassen, wir wären praktisch schon tot. Vielleicht einfach eine Emailadresse?
+// WALTER: nun, nicht nur das forum ist im boden, auch mit der webseite können wir
+//         nicht glänzen, siehe z.b. "news" z.t. frohe weihnachten im ganzen jahr
+//         1 news und schon wieder frohe weihnachten. m.e. nicht wirklich für publikum
+//         geeignet.
 Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden Sie sich bitte unter:
 http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 
@@ -144,5 +150,9 @@ Ihr sidux Team Köln
 Namen und Nick-Names? mit auf der Präsentation? Fänd ich nett...
 // MAGNUS: ich weiß nicht ob es sinnvoll ist, die Namen und Bilder mit auf die Präsentation zu
 // packen. Die sehen uns doch da?
+// WALTER: bilder sind das grosse problem ... meist bei lustigen anlässen gemacht und daher intern
+//         ganz lustig extern könnte "verwirrung" aufkommen. ggf. möchte nicht jeder das sein name
+//         über bildschirm oder leinwand flimmert.
 
 Auf den Namenskarten sollten Namen und Nicknames stehen, ich (Spike_DE) kenne die meisten z.B. nur als Nickname aus dem IRC!
+// WALTER: platz dafür ist sicherlich noch auf den karten.
