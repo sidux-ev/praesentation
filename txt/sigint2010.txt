@@ -1,6 +1,7 @@
+# version 0.5
 /* --- seite 1 --- */
 
-sidux
+sidux:
   
 - ist eine stabile, auf Debians unstable-Zweig (sid) basierte Linux-Distribution
   
@@ -14,12 +15,6 @@ sidux
 /* --- seite 2 --- */
 
 Besonderheiten von sidux:
-
-// MAGNUS: hier sollte man ggf andere Applikationen neben Ceni nennen. Was gibt es denn da
-// noch so in den Repositories? Mir fällt auch nichts anderes ein.. Artwork ist jedenfalls
-// keine Applikation. :)
-// WALTER: siehe http://svn.berlios.de/svnroot/repos/fullstory/
-//         hier sollten eigene oder durch sidux veränderte pakete zu finden sein.
 
 - eigenes Repository für sidux-Kernel, -Applikationen, Fixes und sidux-Artwork.
 
@@ -45,10 +40,6 @@ perfekt für den 1. Kontakt mit sidux/Linux
 optimal für längere Tests mit sidux/Linux
 
 - unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt.
-// MAGNUS: Den Punkt mit dem Dauerbetrieb finde ich an der Stelle etwas irritierend. Was
-// hat der mit dem CD/DVD-Release zu tun? Man sollte hier vielleicht eher sagen, dass nach
-// erfolgreicher Installation die CD/DVD nicht mehr gebraucht wird? ;)
-//super für den Dauerbetrieb mit Rolling-Release-Aktualität
 
 
 /* --- seite 4 --- */
@@ -80,7 +71,6 @@ Hardware-Anforderungen:
 - CD/DVD-Laufwerk bzw. freier USB-Port (wenn USB-Boot für den Rechner möglich)
   
 für die optionale Installation:
-
 mindestens 3 GByte freien Speicherplatz (USB-Stick oder Festplatte), zum sinnvollen Arbeiten sollten mindestens 10 GB vorgesehen werden.
   
 
@@ -109,12 +99,6 @@ Aktivitäten der sidux-Community:
 
 - demnächst auch bei Ihnen? 
 
-// MAGNUS: Ist es sinnvoll, hier das sidux-ev Forum zu nennen? Das könnte den Eindruck
-// hinterlassen, wir wären praktisch schon tot. Vielleicht einfach eine Emailadresse?
-// WALTER: nun, nicht nur das forum ist im boden, auch mit der webseite können wir
-//         nicht glänzen, siehe z.b. "news" z.t. frohe weihnachten im ganzen jahr
-//         1 news und schon wieder frohe weihnachten. m.e. nicht wirklich für publikum
-//         geeignet.
 Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden Sie sich bitte unter:
 
 events@sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
