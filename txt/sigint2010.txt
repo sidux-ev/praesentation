@@ -20,7 +20,8 @@ Besonderheiten von sidux:
 // keine Applikation. :)
 // WALTER: siehe http://svn.berlios.de/svnroot/repos/fullstory/
 //         hier sollten eigene oder durch sidux veränderte pakete zu finden sein.
-- eigenes Repository für sidux-Kernel und -Applikationen (z. B. Netzwerkonfigurationstool Ceni und sidux-Artwork) 
+//- eigenes Repository für sidux-Kernel und -Applikationen (z. B. Netzwerkonfigurationstool Ceni und sidux-Artwork) 
+- eigenes Repository für sidux-Kernel, -Applikationen, Fixes und sidux-Artwork.
 
 - sidux bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software. Bei Bedarf können vom Anwender auf einfache Art auch kommerzielle (non-free) Programme und Treiber in sidux eingebunden werden.
 
@@ -43,11 +44,11 @@ perfekt für den 1. Kontakt mit sidux/Linux
 - lassen sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) einfach betreiben und installieren
 optimal für längere Tests mit sidux/Linux
 
-- unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt
+- unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt.
 // MAGNUS: Den Punkt mit dem Dauerbetrieb finde ich an der Stelle etwas irritierend. Was
 // hat der mit dem CD/DVD-Release zu tun? Man sollte hier vielleicht eher sagen, dass nach
 // erfolgreicher Installation die CD/DVD nicht mehr gebraucht wird? ;)
-super für den Dauerbetrieb mit Rolling-Release-Aktualität
+//super für den Dauerbetrieb mit Rolling-Release-Aktualität
 
 
 /* --- seite 4 --- */
@@ -115,7 +116,8 @@ Aktivitäten der sidux-Community:
 //         1 news und schon wieder frohe weihnachten. m.e. nicht wirklich für publikum
 //         geeignet.
 Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden Sie sich bitte unter:
-http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
+//http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
+events@sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 
 Der sidux e.V. unterstützt Sie gerne!
 
@@ -129,8 +131,10 @@ Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
 SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, FOSDEM Brüssel, Oldenburger Linux-Infotag, Augsburger Linux-Infotag, Chemnitzer Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
 
 Den sidux e.V. erreichen Sie unter:
+Email: sidux-ev@sidux-ev.de
 Homepage: http://sidux-ev.de
-Wiki: wiki.sidux-ev.de
+//Wiki: wiki.sidux-ev.de
+Wiki: wiki.sidux-ev.org
 IRC: irc.oftc.net, channel: #sidux-ev
   
 
@@ -145,6 +149,7 @@ Ihr sidux Team Köln
 
 
 # ------------------------------------------------------------------------------------------------ #
+
 /*  Anmerkungen */
 
 Namen und Nick-Names? mit auf der Präsentation? Fänd ich nett...
@@ -156,3 +161,5 @@ Namen und Nick-Names? mit auf der Präsentation? Fänd ich nett...
 
 Auf den Namenskarten sollten Namen und Nicknames stehen, ich (Spike_DE) kenne die meisten z.B. nur als Nickname aus dem IRC!
 // WALTER: platz dafür ist sicherlich noch auf den karten.
+
+# ------------------------------------------------------------------------------------------------ #
