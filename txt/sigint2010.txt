@@ -1,4 +1,4 @@
-# version 0.5
+# version 0.6
 /* --- seite 1 --- */
 
 sidux:
@@ -100,7 +100,7 @@ Aktivitäten der sidux-Community:
 - demnächst auch bei Ihnen? 
 
 Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden Sie sich bitte unter:
-
+//http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 events@sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
 
 Der sidux e.V. unterstützt Sie gerne!
@@ -117,6 +117,7 @@ SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, FOSDEM Brüssel, Oldenburge
 Den sidux e.V. erreichen Sie unter:
 Email: sidux-ev@sidux-ev.de
 Homepage: http://sidux-ev.de
+//Wiki: wiki.sidux-ev.de
 Wiki: wiki.sidux-ev.org
 IRC: irc.oftc.net, channel: #sidux-ev
   

@@ -1,0 +1,168 @@
+
+  Willkommen zur SIGINT 2010
+
+  und zur Vorstellung von
+
+  sidux
+
+  sidux
+
+  ist eine stabile, auf Debians unstable-Zweig (sid)
+  basierte Linux-Distribution
+
+  ist als "Rolling Release" durch regelmäßige Updates
+  (dist-upgrade) über das Internet (ggf. tages-)aktuell
+
+  installiert Pakete direkt aus Debians sid-Repository
+  (kein Forken der Pakete)
+
+  macht neue Releases ohne Neuinstallation verfügbar
+
+  Besonderheiten von sidux
+
+  eigenes Repository für sidux-Kernel, -Applikationen, Fixes und
+  sidux-Artwork.
+
+  sidux bietet durch hochaktuelle Kernel bestmögliche
+  Hardwareunterstützung und Sicherheit im Rahmen freier Software
+
+  kurzfristige Bereitstellung gefixter Paketversionen, falls durch
+  eine Versionsinkompatibilität im sid-Zweig die Arbeit mit dem
+  System behindert werden würde
+
+  sidux wird von einer aktiven Community und dem sidux e.V.
+  unterstützt
+
+  CD/DVD-Releases von sidux
+
+  werden 4 mal pro Jahr veröffentlicht
+
+  die sidux live CD/DVD-Systeme laufen ohne jegliche Beeinflussung
+  des primär installierten Systems
+  → perfekt für den 1. Kontakt mit sidux/Linux
+
+  sind in 2-10 Minuten sehr einfach lokal auf Festplatten oder
+  (ausreichend große) USB-Sticks installierbar
+
+  lassen sich auch in virtuellen Systemen (z.B. Virtualbox, etc.)
+  ebenso einfach betreiben und installieren
+  → optimal für längere Tests mit sidux/Linux
+
+  unterstützen eine Installation mit einem grafischen Tool, das
+  von den Voreinstellungen über die Festplattenpartitionierung,
+  Installation und diverse Benutzereinstellungen auch
+  sidux/Linux-Neulinge einfach durch die Installation führt.
+
+  sidux Varianten und Installationen
+
+  Live-DVD 'KDE-Full', mit aktuellem KDE4 aus sid und vielen
+  Anwendungsprogrammen
+
+  Live-CD 'KDE-Light', mit aktuellem KDE4 aus sid und einer
+  reduzierten Anzahl an KDE-Anwendungen
+
+  Live-CD 'XFCE' mit Anwendungen für leistungsschwächere Rechner
+  ohne KDE-Oberfläche, stattdessen mit XFCE
+
+  Alle drei Varianten sind für die 32- und 64-Bit-Architekturen
+  der gängigen Prozessoren von INTEL und AMD verfügbar.
+
+  Hardware-Anforderungen
+
+  für 32 Bit: CPU die den vollständigen i686 Befehlssatz
+  unterstützt (quasi alle bekannten INTEL/AMD-Chips)
+
+  für 64 Bit: x86-64/ EM64T fähige CPU d.h. neuere
+  INTEL/AMD-Prozessoren (für 64Bit)
+
+  mindestens 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM, optimal ab
+  1 GByte
+
+  Standard VGA Grafikkarte
+
+  CD/DVD-Laufwerk bzw. freier USB-Port (wenn USB-Boot für den
+  Rechner möglich)
+
+  für die optionale Installation:
+
+  mindestens 3 GByte freien Speicherplatz (USB- Stick oder
+  Festplatte), zum sinnvollen Arbeiten sollten mindestens 10 GB
+  vorgesehen werden.
+
+  Hilfe zu sidux
+
+  im offiziellen sidux-Handbuch (aktuell bereits in 16 Sprachen!)
+  unter
+
+  http://manual.sidux.com
+
+  mit einem IRC-Client im Chat irc.oftc.net im Channel #sidux
+
+  ohne IRC-Client über den Webchat, der unter http://sidux.com zu
+  finden ist
+
+  im Supportforum auf der sidux Webseite unter http://sidux.com
+
+  Aktivitäten der sidux-community
+
+  regelmäßige Anwendertreffen und/oder Stammtische, bei denen man
+
+  Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen
+  kann
+
+  z.B. in München: jeden zweiten Samstag im Monat Anwendertreffen
+
+  z.B. in Aachen, Darmstadt und Hamburg:
+
+  Treffen und Wochenend-Workshops
+
+  demnächst auch bei Ihnen?
+
+  Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder
+  Workshops
+
+  etablieren möchten, melden sie Sich bitte unter:
+
+  events@sidux-ev.de, im Chat irc.oftc.net im Channel #sidux-ev
+  oder direkt hier am Stand.
+
+  Der sidux e.V. unterstützt Sie gerne!
+
+  sidux e.V.
+
+  Der sidux e.V. ist mit seinem Messestand unter anderem vertreten
+  bei:
+
+  SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, FOSDEM
+  Brüssel,
+
+  Oldenburger LIT, Augsburger Linux-Infotag, Chemnitzer
+  Linux-Tage, Software Freedom Day Hamburg, OpenRheinRuhr Bottrop
+
+  Den sidux e.V. erreichen Sie unter:
+
+  Homepage: http://sidux-ev.de
+
+  Mail: sidux-ev@sidux-ev.de
+
+  Wiki: http://wiki.sidux-ev.org
+
+  IRC: irc.oftc.net,
+  channel: #sidux-ev
+
+  SIGINT 2010 Köln
+
+  Viel Spaß mit sidux und eine interessante Zeit beim
+
+  SIGINT 2010 in Köln
+
+  wünschen Ihnen:
+
+  Aomori evnu
+
+  Loewenherz motti
+
+  RoEn vedawalter
+
+  Ihr sidux Team Köln
+
