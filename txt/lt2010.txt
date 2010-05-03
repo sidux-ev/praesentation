@@ -123,8 +123,8 @@ IRC: irc.oftc.net, channel: #sidux-ev
 
 /* --- seite 9 --- */
   
-Viel Spaß mit sidux und eine interessante Zeit beim SIGINT 2010 in Köln wünschen Ihnen:
+Viel Spaß mit sidux und eine interessante Zeit beim LinuxTag 2010 in Berlin wünschen Ihnen:
 
-  aomori, evnu, loewenherz, motti, RoEn und vedawalter
+  ?
   
-Ihr sidux Team Köln
+Ihr sidux Team Berlin
