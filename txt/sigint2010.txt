@@ -117,7 +117,6 @@ SIGINT Köln, LinuxTag Berlin, FrOSCon St. Augustin, FOSDEM Brüssel, Oldenburge
 Den sidux e.V. erreichen Sie unter:
 Email: sidux-ev@sidux-ev.de
 Homepage: http://sidux-ev.de
-//Wiki: wiki.sidux-ev.de
 Wiki: wiki.sidux-ev.org
 IRC: irc.oftc.net, channel: #sidux-ev
   
@@ -127,23 +126,5 @@ IRC: irc.oftc.net, channel: #sidux-ev
 Viel Spaß mit sidux und eine interessante Zeit beim SIGINT 2010 in Köln wünschen Ihnen:
 
   aomori, evnu, loewenherz, motti, RoEn und vedawalter
-  /* Foto / Name / Nick (der Standbetreuer) */
   
 Ihr sidux Team Köln
-
-
-# ------------------------------------------------------------------------------------------------ #
-
-/*  Anmerkungen */
-
-Namen und Nick-Names? mit auf der Präsentation? Fänd ich nett...
-// MAGNUS: ich weiß nicht ob es sinnvoll ist, die Namen und Bilder mit auf die Präsentation zu
-// packen. Die sehen uns doch da?
-// WALTER: bilder sind das grosse problem ... meist bei lustigen anlässen gemacht und daher intern
-//         ganz lustig extern könnte "verwirrung" aufkommen. ggf. möchte nicht jeder das sein name
-//         über bildschirm oder leinwand flimmert.
-
-Auf den Namenskarten sollten Namen und Nicknames stehen, ich (Spike_DE) kenne die meisten z.B. nur als Nickname aus dem IRC!
-// WALTER: platz dafür ist sicherlich noch auf den karten.
-
-# ------------------------------------------------------------------------------------------------ #
