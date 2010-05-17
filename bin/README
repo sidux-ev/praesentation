@@ -1,6 +1,9 @@
-* Editieren, setzen, etc.
-* ***********************
+* *************************
+* Editieren, setzen, etc. *
+* *************************
 
-- ttf-dustismo (siehe /font) muss für Editierungen ('sidux-font') installiert sein!!!
-- sidux-ev in Arial, Fett
-- Mit dustismo +4 pt bei Schriftgrösse, sidux im Header fett
+- ttf-dustismo 'sidux-font' (siehe /font) muss für Editierungen installiert sein!
+- 'sidux e.v.' in Arial, fett
+- 'sidux' mit dustismo +4 pt bei Schriftgrösse
+- 'sidux' im Header fett
+
