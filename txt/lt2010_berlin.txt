@@ -1,11 +1,11 @@
-# version 0.6
+# version 0.1
 /* --- seite 1 --- */
 
 sidux:
 
 - ist eine stabile, auf Debians unstable-Zweig (sid) basierte Linux-Distribution
 
-- ist als "Rolling Release" durch regelmäßige Updates (dist-upgrade) über das Internet (ggf. tages-)aktuell
+- ist als "Rolling Release" durch regelmäßige Updates (dist-upgrade) über das Internet (tages-)aktuell
 
 - installiert Pakete direkt aus Debians sid-Repository (kein Forken der Pakete)
 
