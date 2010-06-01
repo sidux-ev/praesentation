@@ -75,7 +75,7 @@ mindestens 3 GByte freien Speicherplatz (USB-Stick oder Festplatte), zum sinnvol
 
 Hilfe:
 
-- im offiziellen Handbuch (aktuell in 16 Sprachen!) unter http://manual.sidux.com
+- im offiziellen Handbuch (aktuell in 16 Sprachen) unter http://manual.sidux.com
 
 - mit einem IRC-Client im Chat irc.oftc.net im Channel #sidux 
 
