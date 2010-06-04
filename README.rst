@@ -11,5 +11,7 @@ Bildschirmpräsentation zur FrOSCon 2010
 Branch
 ------
 augsburg2010 -> augsburger lit 2010
+
 sigint2010   -> sigint köln 2010
+
 lt2010       -> LinuxTag Berlin 2010
