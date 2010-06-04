@@ -1,4 +1,4 @@
-Bildschirmpräsentation zum LT Berlin 2010
+Bildschirmpräsentation zur FrOSCon 2010
 =========================================
 
 :Autoren:
@@ -6,3 +6,4 @@ Bildschirmpräsentation zum LT Berlin 2010
 :Version: 0.1
 
 ------------------------------
+
