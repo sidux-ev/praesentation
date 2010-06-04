@@ -120,8 +120,8 @@ IRC: irc.oftc.net, channel: #sidux-ev
 
 /* --- seite 9 --- */
 
-Viel Spaß mit sidux und eine interessante Zeit beim LinuxTag 2010 in Berlin wünschen Ihnen:
+Viel Spaß mit sidux und eine interessante Zeit bei der FrOSCon 2010 in St. AUgustin wünschen Ihnen:
 
-  devil, edhunter, fabschub, postkutscher, ralfi
+  ???
 
-Ihr sidux Team beim LinuxTag in Berlin
+Ihr sidux Team bei der FrOSCon
