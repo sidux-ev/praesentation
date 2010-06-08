@@ -59,7 +59,7 @@ Hardware-Anforderungen:
 
 - 32 Bit: CPU mit vollständigen i686 Befehlssatz (quasi alle bekannten neueren AMD/INTEL-Chips)
 
-- 64 Bit: x86-64/ EM64T fähige CPU, d.h. neuere AMD/INTEL Prozessoren
+- 64 Bit: x86-64/EM64T fähige CPU, d.h. neuere AMD/INTEL Prozessoren
 
 - mindestens 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM, optimal ab 1 GByte
 
@@ -92,7 +92,7 @@ Aktivitäten der Community:
 
 - z.B. in München: jeden zweiten Samstag im Monat Anwendertreffen
 
-- z.B. in Aachen, Darmstadt und Hamburg: Treffen und Wochenend-Workshops
+- z.B. in Aachen, Bremen, Darmstadt und Hamburg: Treffen und Wochenend-Workshops
 
 - demnächst auch bei Ihnen? 
 
@@ -109,7 +109,7 @@ sidux e.V.
 
 Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
 
-Augsburger Linux-Infotag, Chemnitzer Linux-Tage, FrOSCon, LinuxTag Berlin, Oldenburger Linux-Infotag, OpenRheinRuhr, SIGINT
+Augsburger Linux-Infotag, Chemnitzer Linux-Tage, FrOSCon, Froscamp Schweiz, LinuxTag Berlin, Oldenburger Linux-Infotag, OpenRheinRuhr, SIGINT
 
 Den sidux e.V. erreichen Sie unter:
 Email: sidux-ev@sidux-ev.de
