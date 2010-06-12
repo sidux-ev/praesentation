@@ -133,6 +133,8 @@ IRC: irc.oftc.net, channel: #sidux-ev
 
 /* --- seite 10 --- */
 
+FrOSCon 2010
+
 Viel Spaß mit sidux und eine interessante Zeit bei der FrOSCon 2010 in St. Augustin wünschen Ihnen:
 
   ???
