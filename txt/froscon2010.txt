@@ -105,6 +105,19 @@ Der sidux e.V. unterstützt Sie gerne!
 
 /* --- seite 8 --- */
 
+Kommende Treffen
+
+- 17. Septemner Meet & Greet Hamburg
+
+- 2. - 3. Oktober Aachen-Treff
+
+- 12. November Meet & Greet Oberhausen
+
+- ??. Weihnachts-Brunch Hamburg
+
+
+/* --- seite 9 --- */
+
 sidux e.V.
 
 Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
@@ -118,7 +131,7 @@ Wiki: wiki.sidux-ev.org
 IRC: irc.oftc.net, channel: #sidux-ev
 
 
-/* --- seite 9 --- */
+/* --- seite 10 --- */
 
 Viel Spaß mit sidux und eine interessante Zeit bei der FrOSCon 2010 in St. AUgustin wünschen Ihnen:
 
