@@ -107,9 +107,9 @@ Der sidux e.V. unterstützt Sie gerne!
 
 Kommende Treffen
 
-- 17. Septemner Meet & Greet Hamburg
+- 17. September Meet & Greet Hamburg
 
-- 2. - 3. Oktober Aachen-Treff
+- 02. - 03. Oktober Aachen-Treff
 
 - 12. November Meet & Greet Oberhausen
 
@@ -133,7 +133,7 @@ IRC: irc.oftc.net, channel: #sidux-ev
 
 /* --- seite 10 --- */
 
-Viel Spaß mit sidux und eine interessante Zeit bei der FrOSCon 2010 in St. AUgustin wünschen Ihnen:
+Viel Spaß mit sidux und eine interessante Zeit bei der FrOSCon 2010 in St. Augustin wünschen Ihnen:
 
   ???
 
