@@ -1,7 +1,7 @@
 Bildschirmpräsentation zur FrOSCon 2010
 =========================================
 
-:Autoren:
+:Autoren: Lars Lünnemann, Magnus Müller, Walter Güldenberg
 
 :Version: 0.1
 
