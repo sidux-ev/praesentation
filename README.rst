@@ -1,4 +1,4 @@
-Bildschirmpräsentation
+﻿Bildschirmpräsentation
 =========================================
 
 :Autoren: Lars Lünnemann[1], Magnus Müller[2], Walter Güldenberg[3]
