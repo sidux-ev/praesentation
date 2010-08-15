@@ -1,20 +1,24 @@
-Bildschirmpräsentation zur FrOSCon 2010
+Bildschirmpräsentation
 =========================================
 
-:Autoren: Lars Lünnemann, Magnus Müller, Walter Güldenberg
+:Autoren: Lars Lünnemann[1], Magnus Müller[2], Walter Güldenberg[3]
 
 :Version: 0.1
 
 ------------------------------
 
+---------------------------------------
+Keine Aktivtäten fuer FrOSCon 2010
+= keine Praesentation bei FrOSCon 2010
+---------------------------------------
+
 ------
 Branch
 ------
-augsburg2010 -> augsburger lit 2010
+augsburg2010 -> augsburger lit 2010 [1,2,3]
 
-sigint2010   -> sigint köln 2010
+sigint2010   -> sigint köln 2010 [3]
 
-lt2010       -> LinuxTag Berlin 2010
+lt2010       -> LinuxTag Berlin 2010 [3]
 
-master       -> aktuelle Arbeit (FrOSCon 2010)
-
+master       -> aktuelle Arbeit (FrOSCon 2010) [-]
