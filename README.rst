@@ -5,8 +5,6 @@
 
 :Version: 0.1
 
-------------------------------
-
 ---------------------------------------
 Keine Aktivtäten fuer FrOSCon 2010
 = keine Praesentation bei FrOSCon 2010
