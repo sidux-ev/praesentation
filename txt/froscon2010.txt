@@ -1,0 +1,142 @@
+# version 0.1
+/* --- seite 1 --- */
+
+sidux:
+
+- ist eine stabile, auf Debians unstable-Zweig (sid) basierte Linux-Distribution
+
+- ist als "Rolling Release" durch regelmäßige Updates (dist-upgrade) über das Internet (tages-)aktuell
+
+- installiert Pakete direkt aus Debians sid-Repository (kein Forken der Pakete)
+
+- macht neue Releases ohne Neuinstallation verfügbar
+
+
+/* --- seite 2 --- */
+
+Besonderheiten:
+
+- eigenes Repository für sidux-Kernel, -Applikationen, -Artwork und Fixes.
+
+- bietet durch hochaktuelle Kernel bestmögliche Hardwareunterstützung und Sicherheit im Rahmen freier Software.
+
+- kurzfristige Bereitstellung gefixter Paketversionen, falls durch eine Inkompatibilität im sid-Zweig die Arbeit mit dem System behindert werden würde
+
+- wird von einer aktiven Community und dem sidux e.V. unterstützt
+
+
+/* --- seite 3 --- */
+
+CD/DVD-Releases:
+
+- werden bis zu 4 mal pro Jahr veröffentlicht
+
+- die live CD/DVD-Systeme laufen ohne jegliche Beeinflussung des primär installierten Systems, perfekt für den 1. Kontakt mit sidux/Linux
+
+- sind in 2-10 Minuten sehr einfach lokal auf Festplatten oder (ausreichend großen) USB-Sticks installierbar
+
+- lassen sich auch in virtuellen Systemen (z.B. Virtualbox, etc.) einfach betreiben und installieren optimal für längere Tests mit sidux/Linux
+
+- unterstützen eine Installation mit einem grafisches Tool, das von den Voreinstellungen über die Festplattenpartitionierung, Installation und diverse Benutzereinstellung auch Linux-Neulinge einfach durch die Installation führt.
+
+
+/* --- seite 4 --- */
+
+Varianten und Installationen:
+
+- 'KDE-Full' mit aktuellem KDE4 aus sid und vielen Anwendungsprogrammen
+
+- 'KDE-Light' mit aktuellem KDE4 aus sid und einer reduzierten Anzahl an KDE-Anwendungen
+
+- 'XFCE' mit Anwendungen für leistungsschwächere Rechner ohne KDE-Oberfläche, statt dessen mit XFCE
+
+Alle Varianten sind für die 32- und 64-Bit-Architekturen der gängigen AMD und INTEL Prozessoren
+
+
+/* --- seite 5 --- */
+
+Hardware-Anforderungen:
+
+- 32 Bit: CPU mit vollständigen i686 Befehlssatz (quasi alle bekannten neueren AMD/INTEL-Chips)
+
+- 64 Bit: x86-64/EM64T fähige CPU, d.h. neuere AMD/INTEL Prozessoren
+
+- mindestens 512 MByte (KDE) bzw. 256 MByte (XFCE) RAM, optimal ab 1 GByte
+
+- Standard VGA Grafikkarte
+
+- CD/DVD-Laufwerk bzw. freier USB-Port (wenn USB-Boot für den Rechner möglich)
+
+für die optionale Installation:
+mindestens 3 GByte freien Speicherplatz (USB-Stick oder Festplatte), zum sinnvollen Arbeiten sollten mindestens 10 GB vorgesehen werden.
+
+
+/* --- seite 6 --- */
+
+Hilfe:
+
+- im offiziellen Handbuch (aktuell in 16 Sprachen) unter http://manual.sidux.com
+
+- mit einem IRC-Client im Chat irc.oftc.net im Channel #sidux 
+
+- ohne IRC-Client über den Webchat, der unter sidux.com zu finden ist
+
+- im Supportforum auf der sidux Webseite unter http://sidux.com
+
+
+/* --- seite 7 --- */
+
+Aktivitäten der Community:
+
+- regelmäßige Anwendertreffen und/oder Stammtische, bei denen man Gleichgesinnte in geselliger Atmosphäre treffen und kennenlernen kann
+
+- z.B. in München: jeden zweiten Samstag im Monat Anwendertreffen
+
+- z.B. in Aachen, Bremen, Darmstadt und Hamburg: Treffen und Wochenend-Workshops
+
+- demnächst auch bei Ihnen? 
+
+Falls Sie auch in ihrer Stadt/Region Anwendertreffen oder Workshops etablieren möchten, melden Sie sich bitte unter:
+//http://sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
+events@sidux-ev.de, im Chat irc.oftc.net unter Channel #sidux-ev oder direkt hier am Stand.
+
+Der sidux e.V. unterstützt Sie gerne!
+
+
+/* --- seite 8 --- */
+
+Kommende Treffen
+
+- 17. September Meet & Greet Hamburg
+
+- 02. - 03. Oktober Aachen-Treff
+
+- 12. November Meet & Greet Oberhausen
+
+- ??. Weihnachts-Brunch Hamburg
+
+
+/* --- seite 9 --- */
+
+sidux e.V.
+
+Der sidux e.V. ist mit seinem Messestand unter anderem vertreten bei:
+
+Augsburger Linux-Infotag, Chemnitzer Linux-Tage, FrOSCon, Froscamp Schweiz, LinuxTag Berlin, Oldenburger Linux-Infotag, OpenRheinRuhr, SIGINT
+
+Den sidux e.V. erreichen Sie unter:
+Email: sidux-ev@sidux-ev.de
+Homepage: http://sidux-ev.de
+Wiki: wiki.sidux-ev.org
+IRC: irc.oftc.net, channel: #sidux-ev
+
+
+/* --- seite 10 --- */
+
+FrOSCon 2010
+
+Viel Spaß mit sidux und eine interessante Zeit bei der FrOSCon 2010 in St. Augustin wünschen Ihnen:
+
+  ???
+
+Ihr sidux Team bei der FrOSCon
