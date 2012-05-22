@@ -1,5 +1,12 @@
 # version 0.1
 /* --- seite 1 --- */
+=== Der Verein ===
+- Am 01. April 2007 gegründet
+- Gemeinnützig und steuerbefreit
+- Eintragen beim Amtsgericht Charlottenburg
+- Sitz Berlin
+- Geschäftsstelle Aachen
+- Vorstand: Karlheinz Heidemeyer, Magnus Müller, Walter Güldenberg
 
 
 
