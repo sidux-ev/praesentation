@@ -7,10 +7,23 @@
 - Sitz Berlin
 - Geschäftsstelle Aachen
 - Vorstand: Karlheinz Heidemeyer, Magnus Müller, Walter Güldenberg
-
+- Internet: http://sidux-ev.org
+- Wiki: http://wiki.sidux-ev.org
 
 
 /* --- seite 2 --- */
+=== Aktivitäten ===
+- Messe- und Infostände zum Beispiel:
+  - FrOSCon,
+  - SIGINT,
+  - OpenRheinRuhr,
+  - Open-Xchange Partner Summit
+- Teilnahme am Software Freedom Day
+- Eigenveranstaltungen
+- Bundesweite Treffen: Aachen, Bremen, Darmstadt, Hamburg, Köln
+- Sommerfest
+- Gastrednerschaften
+- Unterstützung von FOSS-Projekten
 
 
 
