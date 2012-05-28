@@ -28,23 +28,53 @@
 
 
 /* --- seite 3 --- */
+=== Weitere Information ===
 
+- Sie möchten weitere Infrmationen zum sidux e.V. ?
+  - Im Internet unter http://sidux-ev.org
+  - Per E-Mail unter presse@sidux-ev.org
+  - der direk hier am Stand
 
 
 /* --- seite 4 --- */
+=== @ FrOSCon 2012 ===
 
+sidux e.V. proudly presents:
+
+semplice-linux
+Basierend auf Debian Sid
+32 und 64Bit Version
+Installierbare Live-ISO
+Leichtgewichtig, geringe Anforderungen an die Hardware
+Openbox
+Fragen beantworten wir gerne an unserem Stand.
 
 
 /* --- seite 5 --- */
+=== Special @ FrOSCon 2012 ===
 
+USB Stick
+8 GB
+wahlweise mit 32Bit oder 64Bit
+semplice-linux
+ISO
+€ 9,99
 
 
 /* --- seite 6 --- */
+=== Special @ FrOSCon 20129 ===
 
+Serendipity Handbuch
+€ 0,00
 
 
 /* --- seite 7 --- */
-
+=== FrOSCon 2012 ===
+Viel Spaß und eine interessante Zeit bei der FrOSCon 2012 in St. Augustin wünschen Ihnen:
+Karlheinz Heidemeyer Magnus Müller
+Yasmin Schramm Eugenio Paolantonio
+Luca B. Sven Herfs
+Ihr sidux e.V. Team
 
 
 /* --- seite 8 --- */
