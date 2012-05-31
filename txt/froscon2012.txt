@@ -33,7 +33,7 @@
 - Sie möchten weitere Infrmationen zum sidux e.V. ?
   - Im Internet unter http://sidux-ev.org
   - Per E-Mail unter presse@sidux-ev.org
-  - der direk hier am Stand
+  - der direkt hier am Stand
 
 
 /* --- seite 4 --- */
@@ -44,7 +44,7 @@ sidux e.V. proudly presents:
 semplice-linux
 Basierend auf Debian Sid
 32 und 64Bit Version
-Installierbare Live-ISO
+Installierbares Live-ISO
 Leichtgewichtig, geringe Anforderungen an die Hardware
 Openbox
 Fragen beantworten wir gerne an unserem Stand.
