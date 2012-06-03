@@ -3,7 +3,7 @@
 === Der Verein ===
 - Am 01. April 2007 gegründet
 - Gemeinnützig und steuerbefreit
-- Eintragen beim Amtsgericht Charlottenburg
+- Eingetragen im Vereinsregister beim Amtsgericht Berlin, Charlottenburg
 - Sitz Berlin
 - Geschäftsstelle Aachen
 - Vorstand: Karlheinz Heidemeyer, Magnus Müller, Walter Güldenberg
@@ -30,10 +30,10 @@
 /* --- seite 3 --- */
 === Weitere Information ===
 
-- Sie möchten weitere Infrmationen zum sidux e.V. ?
+- Sie möchten weitere Informationen zum sidux e.V. ?
   - Im Internet unter http://sidux-ev.org
   - Per E-Mail unter presse@sidux-ev.org
-  - der direkt hier am Stand
+  - oder direkt hier am Stand
 
 
 /* --- seite 4 --- */
