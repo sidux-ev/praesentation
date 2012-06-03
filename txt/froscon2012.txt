@@ -56,24 +56,34 @@ Fragen beantworten wir gerne an unserem Stand.
 USB Stick
 8 GB
 wahlweise mit 32Bit oder 64Bit
-semplice-linux
-ISO
-€ 9,99
+semplice-linux (Logo)
+9,99
 
 
 /* --- seite 6 --- */
 === Special @ FrOSCon 20129 ===
+Serendipity „s9y“
 
-Serendipity Handbuch
-€ 0,00
+Individuelle Weblogs für Einsteiger
+und Profis
+
+Verlag: open source Press GmbH, München
+Autor: Garvin Hicking
+
+April 2008, 751 Seiten
+Ehemaliger VK 39,90 €
+
+Restbestände in Originalverpackung
+
+0,00 €
 
 
 /* --- seite 7 --- */
 === FrOSCon 2012 ===
 Viel Spaß und eine interessante Zeit bei der FrOSCon 2012 in St. Augustin wünschen Ihnen:
 Karlheinz Heidemeyer Magnus Müller
-Yasmin Schramm Eugenio Paolantonio
-Luca B. Sven Herfs
+Eugenio Paolantonio Luca B.
+Yasmin Schramm Sven Herfs
 Ihr sidux e.V. Team
 
 
